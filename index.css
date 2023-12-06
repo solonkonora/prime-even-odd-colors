@@ -1,0 +1,27 @@
+#numberContainer {
+  display: flex;
+  margin: 25px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* from the js file */
+.numberElement {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  margin: 5px;
+  width: 30px;
+}
+
+.even {
+  background-color: green;
+}
+
+.odd {
+  background-color: yellow;
+}
+
+.prime {
+  background-color: red;
+}
