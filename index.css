@@ -5,6 +5,7 @@
   flex-wrap: wrap;
 }
 
+/* from the js file */
 .numberElement {
   border: 1px solid black;
   text-align: center;
